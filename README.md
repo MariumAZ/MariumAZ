@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MariumAZ
+- 👋 Hi, I’m Maryem Azzouz
 - 👀 I’m interested in Python, Golang, AI, Quantum
 - 🌱 I’m currently learning Quantum
 - 💞️ I’m looking to collaborate on Tech that helps promote healthcare

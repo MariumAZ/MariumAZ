@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Maryem Azzouz
-- 👀 I’m interested in Python and  AI 
-- 🌱 I’m currently learning LLMs :) 
-- 💞️ I’m looking to collaborate on Tech that helps promote healthcare
 - 📫 How to reach me : maryem.azzouz96@gmail.com
 
 <!---

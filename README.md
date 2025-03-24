@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Maryem Azzouz
 - 📫 How to reach me : maryem.azzouz96@gmail.com
+- 🐍 **PyFlink** | 🔄 **Data Streaming** | 🦤 **Redpanda** | 🔥 **PyTorch** | ☁️ **AWS** | 📦 **Product Management** | 🤖 **LLMs**
 
 <!---
 MariumAZ/MariumAZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
